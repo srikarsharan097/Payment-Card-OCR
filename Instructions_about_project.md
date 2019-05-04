@@ -5,7 +5,7 @@ This project is developed in Python.
 
 The main theme of my project is not to waste time in filling forms in online payment activities.
 
-So, just by uploading front side picture of any payment card like credit card or debit card, the details which are asked by payment forms are retrived and displayed in their respective controls.
+So, just by uploading front side picture of any payment card like credit card or debit card, the details which are asked by payment forms are retrieved and displayed in their respective controls.
 
 table_db_create.py is the file that creates database and the table of card owners.
 
