@@ -18,7 +18,11 @@ printing_records.py is for me(developer) to check what are the record in the tab
 number_retrieve.py just display card number on kernal.
 
 by - 
+
 Username :- #srikarsharan097
+
 Kanneganti Srikar Sharan
+
 Student of Bapatla Engineering College (2015-2019)
+
 Email :- srikarsharan097@gmail.com (Any queries? Contact me..)
